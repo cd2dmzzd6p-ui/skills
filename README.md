@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+    > [!IMPORTANT]
 > **This repository is deprecated.** For current Codex skill and plugin examples, use the [OpenAI Plugins repository](https://github.com/openai/plugins). If you want to add your own skills to Codex, follow the [Build plugins](https://developers.openai.com/codex/plugins/build) guide, which includes instructions for creating a skill-only plugin.
 
 # Agent Skills
